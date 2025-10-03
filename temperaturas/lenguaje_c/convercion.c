@@ -4,7 +4,7 @@ para fahr = 0, 20, ..., 300 */
 
 int main () {
 	int fahr, celsius;
-        int lower, uper, step;
+    int lower, uper, step;
 	
 	lower = 0;       //limite inferior de la tabla.
 	uper = 300;     //limite superior de la tabla. 
