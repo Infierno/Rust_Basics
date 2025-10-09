@@ -1,0 +1,9 @@
+[package]
+name = "engi"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+terminal_size = "0.3"
+macroquad = "0.4"
+termion = "4.0.5"
